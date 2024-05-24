@@ -7,10 +7,11 @@ I’m a Computer Science student with a passion for learning new things and to c
 - LinkedIn: [LinkedIn](www.linkedin.com/in/roni-brikman)
 
 ## 🔧 Technologies & Tools
-![C]
-![Java]
-![Python]
-![JavaScript]
+Java | Python | JavaScript |
+C | Git | HTML | CSS | JIRA|
+Android Studio | React |
+Node.js
+
 ## 🌱 I’m currently learning:
 - Machine learning
 - Advanced algorithms 
