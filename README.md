@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Roni Brikman
 
-<!--
-**RoniBrikman/RoniBrikman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student with a passion for learning new things and to challenge myself. 
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
+- Email: [ronibrikman@gmail.com](mailto:ronibrikman@gmail.com)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/roni-brikman)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![C](https://www.cprogramming.com/)
+![Java](https://www.java.com/en/)
+![Python](https://www.python.org/)
+![JavaScript](https://nodejs.org/en)
+
+## 🌱 I’m currently learning:
+- Machine learning
+- Advanced algorithms 
+
+## 💼 Some of my projects:
+- **Foobar**: :
+ ComprehensiveFacebook-like application and website featuring both
+front-end and back-end functionalities. --- link will be added later.
+- 🕹️**Arkanoid**:
+ Arkanoid is a timeless brick-breaking game where you control a paddle to keep a ball in play and smash through bricks. My version of Arkanoid offers multiple levels and introduces exciting new gameplay challenges. You can find the complete code on my GitHub repository. Dive in, explore, and have fun playing!
+
+[Check out the code and play the game!](https://github.com/RoniBrikman/Arkanoid)
+
